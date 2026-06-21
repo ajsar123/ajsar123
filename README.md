@@ -1,12 +1,95 @@
+# Hi there, I'm a Data Analyst 👋
 
-# 💻 Tech Stack:
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ajsar123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ajsar123&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ajsar123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🚀 About Me
+I am a **Data Science & Analytics MSc student** passionate about turning raw data into meaningful insights that drive real-world decisions.  
+I enjoy working on end-to-end data projects involving **data cleaning, analysis, visualization, and predictive modelling**.
+
+Currently, I am building practical solutions using **Python, SQL, Excel, Tableau, and Power BI**, with a strong focus on real-world business impact.
 
 ---
-[![](https://komarev.com/ghpvc/?username=ajsar123&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 What I Do
+- 📊 Data Analysis & Visualization  
+- 🧠 Machine Learning & Predictive Modelling  
+- 🗄️ Database Querying & Optimization (SQL)  
+- 📈 Dashboard Development (Tableau / Power BI)  
+- 📉 KPI Tracking & Business Reporting  
+- 🔍 Exploratory Data Analysis (EDA)
+
+---
+
+## 🛠️ Tech Stack
+
+**Programming & Data Analysis**  
+Python (Pandas, NumPy, Scikit-learn) • SQL • PostgreSQL • MySQL  
+
+**Visualization Tools**  
+Tableau • Power BI • Excel (Advanced)
+
+**Machine Learning & Analytics**  
+Regression • Classification • Clustering • Time-Series Forecasting (SARIMA, XGBoost)
+
+**Other Skills**  
+Data Cleaning • Feature Engineering • KPI Design • Statistical Analysis • Data Storytelling
+
+---
+
+## 💼 Experience
+
+### Business Analyst Intern  
+**YBI Foundation (Remote)** | Aug 2024 – Nov 2024  
+- Built interactive dashboards in Tableau & Excel tracking 100,000+ records  
+- Improved reporting efficiency by 40% using optimized SQL queries  
+- Delivered insights and recommendations to non-technical stakeholders  
+- Collaborated with cross-functional teams to support business decisions  
+
+---
+
+## 📂 Featured Projects
+
+### 📊 Interactive Road Accident Dashboard
+- Built an interactive Tableau + Excel dashboard for 50,000+ records  
+- Enabled deep filtering by severity, location, and time trends  
+- Designed pivot tables and advanced Excel logic for data validation  
+
+---
+
+### 🛒 RetailPulse: Customer Intelligence & Forecasting
+- Built end-to-end analytics pipeline for customer segmentation & forecasting  
+- Applied K-Means clustering for customer grouping  
+- Used SARIMA & XGBoost for time-series revenue prediction  
+- Delivered insights through clear visual storytelling  
+
+---
+
+### 🗄️ Customer Analytics (SQL Project)
+- Wrote 20+ advanced SQL queries on 650,000+ records  
+- Used CTEs, window functions, and subqueries for deep analysis  
+- Generated insights for churn reduction and customer retention strategies  
+
+---
+
+## 🎓 Education
+**MSc Data Science & Analytics**  
+University of Hertfordshire, UK (Expected 2026)
+
+**B.E. Computer Science and Engineering**  
+Yenepoya Institute of Technology (2024)
+
+---
+
+## 📜 Certifications
+- Power BI – Great Learning  
+- Excel Advanced – Great Learning  
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: www.linkedin.com/in/yadhu-krishna-s-2782ba1a0  
+- 📧 Email: your-email@example.com  
+- 💻 GitHub: github.com/your-username  
+
+---
+
+## ⚡ Fun Fact
+I enjoy building real-world data systems that help turn complex information into simple decisions.
