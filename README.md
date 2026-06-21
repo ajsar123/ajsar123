@@ -1,95 +1,80 @@
-# Hi there, I'm a Data Analyst 👋
+<h1 align="center">Hi 👋, I'm a Data Analyst & Aspiring Data Scientist</h1>
 
-## 🚀 About Me
-I am a **Data Science & Analytics MSc student** passionate about turning raw data into meaningful insights that drive real-world decisions.  
-I enjoy working on end-to-end data projects involving **data cleaning, analysis, visualization, and predictive modelling**.
+<h3 align="center">
+MSc Data Science & Analytics Student | Python • SQL • Machine Learning • BI Tools
+</h3>
 
-Currently, I am building practical solutions using **Python, SQL, Excel, Tableau, and Power BI**, with a strong focus on real-world business impact.
-
----
-
-## 🎯 What I Do
-- 📊 Data Analysis & Visualization  
-- 🧠 Machine Learning & Predictive Modelling  
-- 🗄️ Database Querying & Optimization (SQL)  
-- 📈 Dashboard Development (Tableau / Power BI)  
-- 📉 KPI Tracking & Business Reporting  
-- 🔍 Exploratory Data Analysis (EDA)
+<p align="center">
+Turning data into meaningful insights and data-driven decisions 📊
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+# 👨‍💻 About Me
 
-**Programming & Data Analysis**  
-Python (Pandas, NumPy, Scikit-learn) • SQL • PostgreSQL • MySQL  
-
-**Visualization Tools**  
-Tableau • Power BI • Excel (Advanced)
-
-**Machine Learning & Analytics**  
-Regression • Classification • Clustering • Time-Series Forecasting (SARIMA, XGBoost)
-
-**Other Skills**  
-Data Cleaning • Feature Engineering • KPI Design • Statistical Analysis • Data Storytelling
+- 🎓 MSc Data Science & Analytics student (University of Hertfordshire)
+- 📊 Interested in Data Analytics, Machine Learning & Business Intelligence
+- 🧠 Passionate about solving real-world problems using data
+- 📈 Focused on building strong skills in Python, SQL, and Data Visualization
+- 🔍 Continuously improving my analytical and technical abilities
 
 ---
 
-## 💼 Experience
+# 🛠️ Tech Stack
 
-### Business Analyst Intern  
-**YBI Foundation (Remote)** | Aug 2024 – Nov 2024  
-- Built interactive dashboards in Tableau & Excel tracking 100,000+ records  
-- Improved reporting efficiency by 40% using optimized SQL queries  
-- Delivered insights and recommendations to non-technical stakeholders  
-- Collaborated with cross-functional teams to support business decisions  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-## 📂 Featured Projects
-
-### 📊 Interactive Road Accident Dashboard
-- Built an interactive Tableau + Excel dashboard for 50,000+ records  
-- Enabled deep filtering by severity, location, and time trends  
-- Designed pivot tables and advanced Excel logic for data validation  
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
 
-### 🛒 RetailPulse: Customer Intelligence & Forecasting
-- Built end-to-end analytics pipeline for customer segmentation & forecasting  
-- Applied K-Means clustering for customer grouping  
-- Used SARIMA & XGBoost for time-series revenue prediction  
-- Delivered insights through clear visual storytelling  
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=ajsar123&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajsar123&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ajsar123&theme=tokyonight&layout=compact" />
+</p>
 
 ---
 
-### 🗄️ Customer Analytics (SQL Project)
-- Wrote 20+ advanced SQL queries on 650,000+ records  
-- Used CTEs, window functions, and subqueries for deep analysis  
-- Generated insights for churn reduction and customer retention strategies  
+# 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajsar123&theme=react-dark" />
+</p>
 
 ---
 
-## 🎓 Education
-**MSc Data Science & Analytics**  
-University of Hertfordshire, UK (Expected 2026)
+# 📫 Connect With Me
 
-**B.E. Computer Science and Engineering**  
-Yenepoya Institute of Technology (2024)
-
----
-
-## 📜 Certifications
-- Power BI – Great Learning  
-- Excel Advanced – Great Learning  
+- 💼 LinkedIn: www.linkedin.com/in/ajsarrihalathiyattil 
+- 📧 Email: ajsarrihal@gmail.com 
+- 💻 GitHub: https://github.com/ajsar123  
 
 ---
 
-## 📫 Connect With Me
-- 💼 LinkedIn: www.linkedin.com/in/yadhu-krishna-s-2782ba1a0  
-- 📧 Email: your-email@example.com  
-- 💻 GitHub: github.com/your-username  
+# ⚡ Quote
+
+> “Learning data science one insight at a time.”
 
 ---
 
-## ⚡ Fun Fact
-I enjoy building real-world data systems that help turn complex information into simple decisions.
+<p align="center">
+⭐ Always learning, always improving ⭐
+</p>
